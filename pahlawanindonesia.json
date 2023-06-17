@@ -1,5 +1,5 @@
 [
-  {"nama" : "Soekarno", "asal" : "Surabaya, Jawa Timur", "sejarah" : "Soekarno adalah Proklamator Kemerdekaan ...", "imageResId " : "soekarno1"},
+  {"nama" : "Soekarno", "asal" : "Surabaya, Jawa Timur", "sejarah" : "Soekarno adalah Proklamator Kemerdekaan ...", "imageResId " : "soekarno"},
   {"nama" : "Mohammad Hatta", "asal" : "Bukittinggi, Sumatera Barat", "sejarah" : "Muhammad Hatta, atau Dr. Mohammad Hatta, ...",  "imageResId" : "mohammad_hatta"},
   {"nama" : "Sultan Hasanuddin", "asal" : "Gowa, Sulawesi Selatan", "sejarah" : "Sultan Hasanuddin adalah pahlawan nasional ...",  "imageResId" : "sultan_hasannudin_pahlawan"},
   {"nama" : "Cut Nyak Dien", "asal" : "Aceh, Sumatera Utara", "sejarah" : "Cut Nyak Dien adalah pahlawan nasional ...",  "imageResId" : "cut_nyak_dhien_pahlawan"},
